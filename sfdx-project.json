@@ -4,14 +4,18 @@
             "path": "force-app",
             "default": true,
             "package": "employeeApp",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "Version 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "versionDescription": "Please update the version description as a best practice",
+            "releaseNotesUrl": "www.test.copado.com",
+            "definitionFile": "config/project-scratch-def.json"
+
         },
         {
             "path": "base objects",
             "default": false,
             "package": "baseObjects",
-            "versionName": "ver 0.1",
+            "versionName": "Version 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
     ],
