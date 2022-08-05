@@ -1,12 +1,24 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "base objects",
+            "default": false,
+            "package": "base objects",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "cohortFall22",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "base objects": "0Ho8V000000XZIvSAO",
+        "base objects@0.1.0-1": "04t8V000001hNcXQAU",
+        "base objects@0.1.0-2": "04t8V000001hNccQAE"
     }
-  ],
-  "name": "cohortFall22",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
 }
