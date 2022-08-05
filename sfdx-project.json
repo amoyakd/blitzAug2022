@@ -2,7 +2,10 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": true,
+            "package": "employeeApp",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         },
         {
             "path": "base objects",
@@ -18,6 +21,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "baseObjects": "0Ho8V000000XZJ0SAO",
-        "baseObjects@0.1.0-1": "04t8V000001hNtDQAU"
+        "baseObjects@0.1.0-1": "04t8V000001hNtDQAU",
+        "employeeApp": "0Ho8V000000XZJ5SAO"
     }
 }
