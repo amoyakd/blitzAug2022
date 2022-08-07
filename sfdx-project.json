@@ -8,7 +8,13 @@
             "versionNumber": "0.1.0.NEXT",
             "versionDescription": "Please update the version description as a best practice",
             "releaseNotesUrl": "https://success.copado.com/test.html",
-            "definitionFile": "config/project-scratch-def.json"
+            "definitionFile": "config/project-scratch-def.json",
+            "dependencies": [
+                {
+                  "package": "baseObjects",
+                  "versionNumber": "0.1.0.LATEST"
+                }
+            ]
 
         },
         {
