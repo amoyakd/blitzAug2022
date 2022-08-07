@@ -11,11 +11,9 @@
             "definitionFile": "config/project-scratch-def.json",
             "dependencies": [
                 {
-                  "package": "baseObjects@0.1.0-1"
-                  
+                    "package": "baseObjects@0.1.0-1"
                 }
             ]
-
         },
         {
             "path": "base objects",
@@ -33,6 +31,7 @@
         "baseObjects": "0Ho8V000000XZJ0SAO",
         "baseObjects@0.1.0-1": "04t8V000001hNtDQAU",
         "employeeApp": "0Ho8V000000XZJ5SAO",
-        "employeeApp@1.0.1-0-main": "04t8V000001hO5vQAE"
+        "employeeApp@1.0.1-0-main": "04t8V000001hO5vQAE",
+        "employeeApp@1.0.2-0-main": "04t8V000001hPdIQAU"
     }
 }
