@@ -11,8 +11,8 @@
             "definitionFile": "config/project-scratch-def.json",
             "dependencies": [
                 {
-                  "package": "baseObjects",
-                  "versionNumber": "0.1.0.1"
+                  "package": "baseObjects@0.1.0-1"
+                  
                 }
             ]
 
